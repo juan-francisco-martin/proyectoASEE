@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/rrecheve/uilabstesting" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rrecheve/ToDoManager_DB" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Asus\AndroidStudioProjects" />
