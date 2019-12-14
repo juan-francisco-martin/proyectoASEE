@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
+    <ignoreAction name="Java/Modifiers/Make Private" />
+    <ignoreAction name="Java/Modifiers/Make Protected" />
+  </component>
+</application>
